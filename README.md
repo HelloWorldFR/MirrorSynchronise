@@ -11,4 +11,4 @@ For **Windows** and **Linux**.
 
 ![Mirror Synchronise](https://github.com/HelloWorldFR/MirrorSynchronise/blob/main/MirrorSynchronise_Screenshot.png)
 
-_<ins>Tested</ins> on Windows 10 and Linux based Debian distribution._
+_<ins>Tested</ins> on Windows 10 and Linux Debian based distribution._
