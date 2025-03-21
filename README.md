@@ -1,2 +1,3 @@
 # MirrorSynchronise
-free mirror synchronise files
+Free mirror synchronise for backup files.
+Application portable
