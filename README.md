@@ -1,10 +1,14 @@
-# MirrorSynchronise
-Free mirror synchronise for backup files.
 
-Application portable.
+![logo](https://github.com/HelloWorldFR/MirrorSynchronise/blob/main/MirrorSynchronise_LogoSmall.png)
+# Mirror Synchronise
+## Free mirror synchronise for backup files.
 
-For windows and Linux.
+For **Windows** and **Linux**.
 
-![alt text](https://github.com/HelloWorldFR/MirrorSynchronise/blob/main/MirrorSynchronise_Screenshot.png)
+* **Portable** application,<br>
+* No adds,
+* Offline.
 
-Tested on Windows 10 and Linux based Debian distribution.
+![Mirror Synchronise](https://github.com/HelloWorldFR/MirrorSynchronise/blob/main/MirrorSynchronise_Screenshot.png)
+
+_<ins>Tested</ins> on Windows 10 and Linux based Debian distribution._
